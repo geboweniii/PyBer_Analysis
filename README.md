@@ -29,10 +29,13 @@ Development of the data visualizations required aggregation of the fare data for
 
 ![alt text](https://github.com/geboweniii/PyBer_Analysis/blob/main/analysis/City_Type_Weekly_Summary_Dataframe.PNG)
 
-The following multi-line chart was produced from the *City Type Weekly Summary Dataframe* found above. This chart reveals urban cities consistently earned the greatest total fares over the period of Jan through May 2019. Suburban cities were second over that period of time with rural communities earning the least in total fares. All three 
+The following multi-line chart was produced from the *City Type Weekly Summary Dataframe* found above. This chart reveals urban cities consistently earned the greatest total fares over the period of Jan through May 2019. Suburban cities were second over that period of time with rural communities earning the least in total fares. All three areas saw some increase in total fares from the beginning of the period to the end. All city types also experienced a spike in fares in late February. Total fares are impacted by population density and demand as ride counts were highest in urban cities. Due to lengthier distances between destinations in rural communities, average fares per ride and driver were higher but overall demand was substantially lower as there were only 125 rides.
 
 *Total Fare By City Type*
 
 ![alt text](https://github.com/geboweniii/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 ## Summary
+Based on the results of the analysis, PyBer should consider the following:
+
+1. As urban setting experience the highest demand for rides, PyBer should consider hiring additional
