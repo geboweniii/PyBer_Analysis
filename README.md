@@ -17,7 +17,15 @@ The analysis was conducted using:
 
 ## Results
 
+Analysis of the data provide reveal urban cities have seen the most number of rides (1,625), the most drivers (2,405) and the greatest fare amount ($39,854.38). However, the rural communities experienced the highest average fare per ride ($34.62 per ride) and average fare per driver ($55.49 per driver). See the table below for a full set of summary results of this analysis.
+
+*City Type Summary Dataframe*
+
 ![alt text](https://github.com/geboweniii/PyBer_Analysis/blob/main/analysis/City_Type_Summary_Dataframe.PNG)
+
+Development of the multi-line chart required aggregation of the fare data for each city type by week. The results of this aggregation of data resulted in the dataframe below. This dataframe served as the source for the multi-line graph.
+
+*City Type Weekly Summary Dataframe*
 
 ![alt text](https://github.com/geboweniii/PyBer_Analysis/blob/main/analysis/City_Type_Weekly_Summary_Dataframe.PNG)
 
