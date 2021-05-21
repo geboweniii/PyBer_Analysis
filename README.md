@@ -23,10 +23,16 @@ Analysis of the data provide reveal urban cities have seen the most number of ri
 
 ![alt text](https://github.com/geboweniii/PyBer_Analysis/blob/main/analysis/City_Type_Summary_Dataframe.PNG)
 
-Development of the multi-line chart required aggregation of the fare data for each city type by week. The results of this aggregation of data resulted in the dataframe below. This dataframe served as the source for the multi-line graph.
+Development of the data visualizations required aggregation of the fare data for each city type by week. The results of this aggregation of data resulted in the dataframe below. This dataframe served as the source for the multi-line graph.
 
 *City Type Weekly Summary Dataframe*
 
 ![alt text](https://github.com/geboweniii/PyBer_Analysis/blob/main/analysis/City_Type_Weekly_Summary_Dataframe.PNG)
+
+The following multi-line chart was produced from the *City Type Weekly Summary Dataframe* found above. This chart reveals urban cities consistently earned the greatest total fares over the period of Jan through May 2019. Suburban cities were second over that period of time with rural communities earning the least in total fares. All three 
+
+*Total Fare By City Type*
+
+![alt text](https://github.com/geboweniii/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 ## Summary
