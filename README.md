@@ -38,4 +38,6 @@ The following multi-line chart was produced from the *City Type Weekly Summary D
 ## Summary
 Based on the results of the analysis, PyBer should consider the following:
 
-1. As urban setting experience the highest demand for rides, PyBer should consider hiring additional
+1. As urban settings experienced the highest demand for rides, PyBer should consider additional drivers to address higher demand. Assuming a higher demand for rides than is currently addressed, this would result in higher total fares.
+2. Because of the ratio of drivers to rides in suburban settings, Pyber should consider adding additional drivers in those areas. This would bring the average fare rates closer to urban settings but potentially increase total fares.
+3. Because of the high volatility in total fares in urban areas between March and April, PyBer should consider having additional drivers on hand to address these fluctuations in the event they are due to an inability to meet demand during that time of year.
